@@ -1,0 +1,4 @@
+include:
+  - project: "library/public/templates/pipelines"
+    file: "/gitlab-ci/pipelines/iac-terraform.yml"
+    ref: $PIPELINE_GIT_TAG

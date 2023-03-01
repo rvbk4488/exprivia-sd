@@ -1,0 +1,4 @@
+CODEOWNERS @platform/people/platform-admins
+.gitlab-ci.yml @platform/people/platform-admins
+.snooze-policies-project-based.yaml @business/eni/<shortname>/people/product-owners
+.snooze-policies-security-based.yaml @platform/people/security
